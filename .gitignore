@@ -1,0 +1,10 @@
+.idea/
+DMVProject/DMVProject/__init__.py
+DMVProject/DMVProject/__pycache__/
+DMVProject/DMVApp/__pycache__/
+DMVProject/DMVApp/__init__.py
+
+BankProject/BankProject/__init__.py
+BankProject/BankProject/__pycache__/
+BankProject/BankApp/__pycache__/
+BankProject/BankApp/__init__.py
